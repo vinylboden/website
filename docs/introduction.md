@@ -6,7 +6,7 @@ slug: /
 
 ## Introduction
 
-**YOURLS** is a powerful set of PHP scripts that empowers you to run **Y**our **O**wn **URL** **S**hortener, on your server.
+**YOURLS** is a powerful set of PHP scripts that empowers you to run **Y**our **O**wn **URL[vinylboden](https://www.nordicfloors.de/de/category/rigid-klick-vinyl/512)S**hortener, on your server.
 With YOURLS, you have complete control over your links, detailed statistics, plugin support, and more, all wrapped in a free and open-source package.
 
 ## Key Features
